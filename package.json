@@ -1,0 +1,25 @@
+{
+  "name": "scooter",
+  "version": "1.0.0",
+  "description": "scooter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilancheyan/scooter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilancheyan/scooter/issues"
+  },
+  "homepage": "https://github.com/Ilancheyan/scooter#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}

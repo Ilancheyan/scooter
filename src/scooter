@@ -1,0 +1,7 @@
+class Scooter {
+    constructor(charge, active, chargeLocationID) {
+        this.charge = charge;
+        this.active = active;
+        this.chargeLocationID = chargeLocationID;
+    }
+}
